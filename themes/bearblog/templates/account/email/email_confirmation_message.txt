@@ -1,0 +1,5 @@
+Use the link below to confirm your email address.
+
+{{ activate_url }}
+
+Keep the tiny internet awesome! \ʕ•ᴥ•ʔ/
