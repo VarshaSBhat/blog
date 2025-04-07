@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Varsha's Blog"
+title = "Varsha's Test Blog"
 theme = 'papermod'
 [caches]
     [caches.images]
