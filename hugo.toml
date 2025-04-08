@@ -1,8 +1,19 @@
 baseURL = 'https://varshasbhat.github.io/blog/'
 languageCode = 'en-us'
-title = "varsha has a blog"
+title = "varsha bhat"
 theme = 'papermod'
 publishDir = "docs"
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+[params]
+defaultTheme = "dark"
+disableThemeToggle =false
+ShowReadingTime = true
+ShowToc = true
+ShowPostNavLinks=true
+
+
+[params.homeInfoParams]
+Title = "varsha thinks."
+Content = "therefore, varsha's blog is."
