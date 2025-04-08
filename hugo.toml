@@ -1,6 +1,6 @@
 baseURL = 'https://varshabhat.com/'
 languageCode = 'en-us'
-title = "Varsha's Test Blog"
+title = "Varsha's not Test Blog"
 theme = 'papermod'
 [caches]
     [caches.images]
