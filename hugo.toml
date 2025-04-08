@@ -1,6 +1,6 @@
-baseURL = 'https://varshasbhat.github.io/blog'
+baseURL = 'https://varshasbhat.github.io/blog/'
 languageCode = 'en-us'
-title = "varsha has a blog now"
+title = "varsha has a blog"
 theme = 'papermod'
 publishDir = "docs"
 [caches]
