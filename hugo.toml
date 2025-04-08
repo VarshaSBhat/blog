@@ -1,4 +1,4 @@
-baseURL = 'https://varshabhat.com/'
+baseURL = 'https://varshasbhat.github.io/blog'
 languageCode = 'en-us'
 title = "Varsha's not Test Blog"
 theme = 'papermod'
