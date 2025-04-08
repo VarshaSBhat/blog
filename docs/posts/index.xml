@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Varsha&#39;s not Test Blog</title>
+    <title>Posts on varsha has a blog now</title>
     <link>https://varshasbhat.github.io/blog/posts/</link>
-    <description>Recent content in Posts on Varsha&#39;s not Test Blog</description>
+    <description>Recent content in Posts on varsha has a blog now</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 19:53:43 +0200</lastBuildDate>
     <atom:link href="https://varshasbhat.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test 3</title>
+      <title>moving to rwanda: how and why - a survival guide</title>
       <link>https://varshasbhat.github.io/blog/posts/third/</link>
       <pubDate>Tue, 08 Apr 2025 19:53:43 +0200</pubDate>
       <guid>https://varshasbhat.github.io/blog/posts/third/</guid>
-      <description>&lt;h2 id=&#34;dwight-schrute&#34;&gt;DWIGHT SCHRUTE&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;the-guide-is-a-lie&#34;&gt;the guide is a lie&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>Test 2</title>
+      <title>she should cut her own bangs</title>
       <link>https://varshasbhat.github.io/blog/posts/second/</link>
       <pubDate>Tue, 08 Apr 2025 19:48:21 +0200</pubDate>
       <guid>https://varshasbhat.github.io/blog/posts/second/</guid>
-      <description>&lt;h2 id=&#34;bears-beets-battlestar-galactica&#34;&gt;bears. beets. battlestar galactica.&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;and-other-terrible-decisions&#34;&gt;and other terrible decisions.&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>Test 1</title>
+      <title>she forgot to throw away the eggs</title>
       <link>https://varshasbhat.github.io/blog/posts/first/</link>
       <pubDate>Mon, 07 Apr 2025 11:39:36 +0200</pubDate>
       <guid>https://varshasbhat.github.io/blog/posts/first/</guid>
-      <description>&lt;h2 id=&#34;this-is-not-a-test-anymore&#34;&gt;This is not a test anymore.&lt;/h2&gt;
-&lt;p&gt;Sleep.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;they-all-spoiled&#34;&gt;they all spoiled.&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

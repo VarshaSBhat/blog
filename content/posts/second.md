@@ -1,7 +1,7 @@
 +++
 date = '2025-04-08T19:48:21+02:00'
 draft = false
-title = 'Test 2'
+title = 'she should cut her own bangs'
 +++
 
-## bears. beets. battlestar galactica.
+## and other terrible decisions.
